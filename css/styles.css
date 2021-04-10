@@ -142,12 +142,13 @@ th {
   transition: all 0.3s ease;
 }
 
-/*th {
+th {
   letter-spacing: 0.3px;
   text-align: left;
   text-shadow: 0 1px 1px #2b2a466b;
 }
-td {
+
+/*td {
   background-color: #3d3b63;
 }
 table:hover td {
