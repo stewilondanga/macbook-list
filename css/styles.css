@@ -1,3 +1,11 @@
+body {
+  background-color: #2b2946;
+  color: #fff;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 12px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -107,13 +115,6 @@
   transition-delay: 0.4s;
 }
 
-body {
-  background-color: #2b2946;
-  color: #fff;
-  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
-    "Arial", sans-serif;
-  font-size: 12px;
-}
 h1 {
   color: #69688a;
   font-size: 2em;
