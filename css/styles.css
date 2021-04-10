@@ -107,13 +107,14 @@ body {
   transition-delay: 0.4s;
 }
 
-/*h1 {
+h1 {
   color: #69688a;
   font-size: 2em;
   text-align: center;
   margin: 20px 0 0;
 }
-h2 {
+
+/*h2 {
   font-size: 4em;
   margin: 0 0 40px;
   text-align: center;
