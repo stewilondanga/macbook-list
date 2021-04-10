@@ -161,12 +161,12 @@ td:hover {
   color: #fff !important;
 }
 
-/*.tip {
+.tip {
   text-align: center;
   letter-spacing: 0.3px;
 }
 
-#whereNext {
+/*#whereNext {
   background: rgba(0,0,0,.2);
   border-radius: 10px;
   box-sizing: border-box;
