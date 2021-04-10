@@ -152,11 +152,11 @@ td {
   background-color: #3d3b63;
 }
 
-/*table:hover td {
+table:hover td {
   color: #69688a;
 }
 
-tbody tr:hover td,
+/*tbody tr:hover td,
 td:hover {
   color: #fff !important;
 }
