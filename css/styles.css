@@ -114,13 +114,13 @@ body {
   margin: 20px 0 0;
 }
 
-/*h2 {
+#contact h2 {
   font-size: 4em;
   margin: 0 0 40px;
   text-align: center;
 }
 
-table {
+/*table {
   background-color: #3d3b63;
   border-collapse: collapse;
   border-radius: 10px;
