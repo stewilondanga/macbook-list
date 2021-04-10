@@ -135,14 +135,14 @@ body {
   background-color: #f3646c;
 }
 
-/*td,
+#contact td,
 th {
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 16px;
   transition: all 0.3s ease;
 }
 
-th {
+/*th {
   letter-spacing: 0.3px;
   text-align: left;
   text-shadow: 0 1px 1px #2b2a466b;
