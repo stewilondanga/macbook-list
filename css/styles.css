@@ -166,8 +166,8 @@ td:hover {
   letter-spacing: 0.3px;
 }
 
-/*#whereNext {
-  background: rgba(0,0,0,.2);
+#whereNext {
+  background: rgba(0, 0, 0, .2);
   border-radius: 10px;
   box-sizing: border-box;
   color: #fff;
@@ -176,7 +176,8 @@ td:hover {
   text-align: center;
   width: 900px;
 }
-#whereNext h3 {
+
+/*#whereNext h3 {
   margin: 0 0 10px;
 }
 #whereNext p {
