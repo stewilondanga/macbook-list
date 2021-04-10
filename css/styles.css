@@ -107,14 +107,14 @@ body {
   transition-delay: 0.4s;
 }
 
-h1 {
+#contact h1 {
   color: #69688a;
   font-size: 2em;
   text-align: center;
   margin: 20px 0 0;
 }
 
-h2 {
+/*h2 {
   font-size: 4em;
   margin: 0 0 40px;
   text-align: center;
@@ -161,7 +161,7 @@ td:hover {
   color: #fff !important;
 }
 
-/*.tip {
+.tip {
   text-align: center;
   letter-spacing: 0.3px;
 }
@@ -183,7 +183,7 @@ td:hover {
   margin: 0;
 }
 
-#contact h1 {
+.containers h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
