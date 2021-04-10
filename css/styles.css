@@ -120,7 +120,7 @@ body {
   text-align: center;
 }
 
-/*table {
+#contact table {
   background-color: #3d3b63;
   border-collapse: collapse;
   border-radius: 10px;
@@ -131,7 +131,7 @@ body {
   width: 80vw;
 }
 
-thead {
+/*thead {
   background-color: #f3646c;
 }
 
