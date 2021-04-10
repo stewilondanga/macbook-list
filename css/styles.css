@@ -131,11 +131,11 @@ body {
   width: 80vw;
 }
 
-/*thead {
+#contact thead {
   background-color: #f3646c;
 }
 
-td,
+/*td,
 th {
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 16px;
